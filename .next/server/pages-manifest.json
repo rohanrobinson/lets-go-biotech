@@ -1,6 +1,12 @@
 {
-  "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
+  "/api/hello": "pages/api/hello.js",
+  "/": "pages/index.html",
+  "/_app": "pages/_app.js",
+  "/paper-curation": "pages/paper-curation.html",
+  "/complete-page": "pages/complete-page.html",
+  "/read-papers": "pages/read-papers.html",
+  "/take-quiz": "pages/take-quiz.html",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js"
+  "/404": "pages/404.html"
 }
